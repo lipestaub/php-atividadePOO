@@ -1,0 +1,26 @@
+{
+    "nome": "Unisc",
+    "disciplinas": [
+        {
+            "nome": "Estrutura de Dados",
+            "carga_horaria": 280,
+            "professor": {
+                "nome": "Anderson",
+                "idade": 30,
+                "disciplinas": []
+            },
+            "alunos": [
+                {
+                    "nome": "Felipe",
+                    "idade": 20,
+                    "matricula": 1234,
+                    "notas": [
+                        10,
+                        9.5,
+                        8
+                    ]
+                }
+            ]
+        }
+    ]
+}
