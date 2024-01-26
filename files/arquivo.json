@@ -5,7 +5,7 @@
             "nome": "Estrutura de Dados",
             "carga_horaria": 280,
             "professor": {
-                "nome": "Anderson",
+                "nome": "Ricardo",
                 "idade": 30,
                 "disciplinas": []
             },
@@ -21,13 +21,54 @@
                     ]
                 },
                 {
-                    "nome": "Luan",
+                    "nome": "Gabriel",
                     "idade": 20,
                     "matricula": 5421,
                     "notas": [
                         7,
                         8.5,
                         9
+                    ]
+                },
+                {
+                    "nome": "Pedro",
+                    "idade": 20,
+                    "matricula": 2153,
+                    "notas": [
+                        7,
+                        9.5,
+                        6
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "Matemática",
+            "carga_horaria": 120,
+            "professor": {
+                "nome": "José",
+                "idade": 30,
+                "disciplinas": []
+            },
+            "alunos": [
+                {
+                    "nome": "Felipe",
+                    "idade": 20,
+                    "matricula": 1234,
+                    "notas": [
+                        10,
+                        9.5,
+                        8
+                    ]
+                },
+                {
+                    "nome": "Pedro",
+                    "idade": 20,
+                    "matricula": 2153,
+                    "notas": [
+                        7,
+                        9.5,
+                        6
                     ]
                 }
             ]
